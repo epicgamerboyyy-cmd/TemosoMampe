@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * PROG5121 PoE Part 1 - console driver.
  */
-public class MainApp {
+public class Backspace {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
