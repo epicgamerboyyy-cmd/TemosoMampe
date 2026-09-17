@@ -1,3 +1,5 @@
+package backspace;
+
 /**
  * PROG5121 PoE Part 1
  * Handles user registration validation and login.

@@ -1,3 +1,5 @@
+package backspace;
+
 import java.util.Scanner;
 
 /**
